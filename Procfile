@@ -1,0 +1,1 @@
+web: java -jar -Dsprring.profiles.active=pdn build/libs/platzi-market-1.0.jar
